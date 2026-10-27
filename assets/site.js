@@ -32,6 +32,7 @@
       "Name: " + v("name"),
       "Email: " + v("email"),
       "Size: " + v("size"),
+      "Location (for shipping): " + v("location"),
       "Colors: " + (v("colors") || "(not sure yet)"),
       "",
       "Notes:",
